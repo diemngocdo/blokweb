@@ -44,7 +44,7 @@ hier de naam van de pagina
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/unsplash-detailscherm.png" width="375px" alt="detailscherm van een foto op website unsplash ">
+<img src="images/unsplash-detailpagina.png" width="375px" alt="detailscherm van een foto op website unsplash ">
  
 </details>
 
