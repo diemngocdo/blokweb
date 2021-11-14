@@ -37,15 +37,20 @@ Responsive
 
 ### Je opdracht:
 [Unsplash](https://www.unsplash.com)
+ 
  Website met gratis te gebruiken HD foto's 
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homescherm van website Unsplash 
-<img src="images/unsplash-home.png" width="375px" alt="homescherm van website unsplash">
+
+ 
+ <img src="images/unsplash-home.png" width="375px" alt="homescherm van website unsplash">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Detailpagina van een foto op website Unsplash  
-<img src="images/unsplash-detailpagina.png" width="375px" alt="detailscherm van een foto op website unsplash ">
+
+ 
+ <img src="images/unsplash-detailpagina.png" width="375px" alt="detailscherm van een foto op website unsplash ">
  
 </details>
 
